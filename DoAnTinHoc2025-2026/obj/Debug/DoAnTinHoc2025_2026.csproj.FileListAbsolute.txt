@@ -1,0 +1,11 @@
+C:\Users\ThanhTrong\Desktop\Doantinhoc2025-2026-main\DoAnTinHoc2025-2026\obj\Debug\DoAnTinHoc2025_2026.csproj.AssemblyReference.cache
+C:\Users\ThanhTrong\Desktop\Doantinhoc2025-2026-main\DoAnTinHoc2025-2026\obj\Debug\DoAnTinHoc2025-2026.exe.config
+C:\Users\ThanhTrong\Desktop\Doantinhoc2025-2026-main\DoAnTinHoc2025-2026\obj\Debug\DoAnTinHoc2025_2026.Form1.resources
+C:\Users\ThanhTrong\Desktop\Doantinhoc2025-2026-main\DoAnTinHoc2025-2026\obj\Debug\DoAnTinHoc2025_2026.Properties.Resources.resources
+C:\Users\ThanhTrong\Desktop\Doantinhoc2025-2026-main\DoAnTinHoc2025-2026\obj\Debug\DoAnTinHoc2025_2026.csproj.GenerateResource.cache
+C:\Users\ThanhTrong\Desktop\Doantinhoc2025-2026-main\DoAnTinHoc2025-2026\obj\Debug\DoAnTinHoc2025_2026.csproj.CoreCompileInputs.cache
+C:\Users\ThanhTrong\Desktop\Doantinhoc2025-2026-main\DoAnTinHoc2025-2026\obj\Debug\DoAnTinHoc2025-2026.exe
+C:\Users\ThanhTrong\Desktop\Doantinhoc2025-2026-main\DoAnTinHoc2025-2026\obj\Debug\DoAnTinHoc2025-2026.pdb
+C:\Users\ThanhTrong\Desktop\Doantinhoc2025-2026-main\DoAnTinHoc2025-2026\bin\Debug\DoAnTinHoc2025-2026.exe.config
+C:\Users\ThanhTrong\Desktop\Doantinhoc2025-2026-main\DoAnTinHoc2025-2026\bin\Debug\DoAnTinHoc2025-2026.exe
+C:\Users\ThanhTrong\Desktop\Doantinhoc2025-2026-main\DoAnTinHoc2025-2026\bin\Debug\DoAnTinHoc2025-2026.pdb

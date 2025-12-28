@@ -1,0 +1,67 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.IO;
+
+class ReadCsv
+{
+    static List<string[]> ReadCsvFile(string filePath)
+    {
+        List<string[]> rows = new List<string[]>();
+
+        try
+        {
+            string[] lines = File.ReadAllLines(filePath);
+            foreach (string line in lines)
+            {
+                string[] values = line.Split(',');
+                rows.Add(values);
+            }
+
+            Console.WriteLine("CSV file read successfully!");
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"An error occurred: {ex.Message}");
+        }
+
+        return rows;
+    }
+    static void WriteCsvFile(string filePath, List<string[]> data)
+    {
+        try
+        {
+            using (StreamWriter writer = new StreamWriter(filePath))
+            {
+                foreach (string[] row in data)
+                {
+                    string line = string.Join(",", row);
+                    writer.WriteLine(line);
+                }
+            }
+
+            Console.WriteLine("Ghi file CSV thành công!");
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Lỗi khi ghi file: {ex.Message}");
+        }
+    }
+
+    static void Main()
+    {
+        string csvFilePath = "study_performance.csv";
+
+        List<string[]> csvData = ReadCsvFile(csvFilePath);
+
+        foreach (string[] row in csvData)
+        {
+            Console.WriteLine(string.Join(", ", row));
+        }
+        csvData.Add(new string[] { "Nguyen Van A", "Toan", "9.5" });
+        string outputPath = "study_performance_output.csv";
+        WriteCsvFile(outputPath, csvData);
+    }
+}

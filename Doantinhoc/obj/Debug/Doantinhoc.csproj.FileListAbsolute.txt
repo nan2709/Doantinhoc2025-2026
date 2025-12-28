@@ -1,0 +1,8 @@
+C:\Users\ThanhTrong\source\repos\Doantinhoc\Doantinhoc\bin\Debug\Doantinhoc.exe.config
+C:\Users\ThanhTrong\source\repos\Doantinhoc\Doantinhoc\bin\Debug\Doantinhoc.exe
+C:\Users\ThanhTrong\source\repos\Doantinhoc\Doantinhoc\bin\Debug\Doantinhoc.pdb
+C:\Users\ThanhTrong\source\repos\Doantinhoc\Doantinhoc\obj\Debug\Doantinhoc.csproj.AssemblyReference.cache
+C:\Users\ThanhTrong\source\repos\Doantinhoc\Doantinhoc\obj\Debug\Doantinhoc.csproj.CoreCompileInputs.cache
+C:\Users\ThanhTrong\source\repos\Doantinhoc\Doantinhoc\obj\Debug\Doantinhoc.exe
+C:\Users\ThanhTrong\source\repos\Doantinhoc\Doantinhoc\obj\Debug\Doantinhoc.pdb
+C:\Users\ThanhTrong\source\repos\Doantinhoc\Doantinhoc\obj\Debug\Doantinhoc.exe.config
